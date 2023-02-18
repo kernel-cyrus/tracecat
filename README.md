@@ -2,11 +2,13 @@
 
 A general kernel trace analysis framework
 
-## Setup Environment
+## Download
 
-Tracecat running environment is based on python and venv.
+`git clone https://github.com/kernel-cyrus/lightbox.git`
 
-### Setup on Linux or MacOS
+## Start to Run
+
+#### Run on Linux or MacOS
 
 Setup environment:
 
@@ -43,7 +45,7 @@ Then you can simply run by:
     ./venv/bin/deactivate
 ```
 
-### Setup on Windows
+#### Run on Windows
 
 Setup environment:
 
@@ -110,7 +112,7 @@ Then you can get distribution package from:
 
 ## User Guide
 
-See [docs/user_guide](https://github.com/kernel-cyrus/tracecat/blob/master/docs/user_guide.md)
+See <a href="https://github.com/kernel-cyrus/tracecat/blob/master/docs/user_guide.md" target="_blank">docs/user_guide</a>
 
 ## Contact
 
