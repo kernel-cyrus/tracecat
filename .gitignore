@@ -1,0 +1,17 @@
+.vscode
+**/__pycache__
+build
+dist
+demon/libs
+demon/obj
+runs/*
+venv/Include
+venv/Lib
+venv/Scripts
+venv/pyvenv.cfg
+venv/bin
+venv/include
+venv/lib
+venv/lib64
+venv/share
+
