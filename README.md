@@ -110,7 +110,7 @@ Then you can get distribution package from:
 
 ## User Guide
 
-See [docs/user_guide.txt](docs/user_guide.txt)
+See [docs/user_guide](docs/user_guide.md)
 
 ## Contact
 
