@@ -1,10 +1,10 @@
 # User Guide
 
-tracecat是一个模块化设计的通用trace解析框架。tracecat支持从systrace、perfetto、ftrace、simpleperf、dumpsys、sysfs、procfs、iPhone instruments、SnapdragonProfiler等数据源并行采集、解析数据，并生成excel及各类分析图表。
+Tracecat是一个模块化设计的通用Trace解析框架。
 
-Author: Cyrus Huang
+支持从Systrace、Perfetto、Ftrace、Simpleperf、Dumpsys、Sysfs、Procfs、iPhone instruments、SnapdragonProfiler等数据源并行采集、解析数据，并生成Excel及各类分析图表。
 
-Github: <https://github.com/kernel-cyrus/tracecat>
+你可以基于它轻松扩展Trace解析功能，也可以直接将他作为工具使用。
 
 ## 快速上手
 
@@ -459,3 +459,9 @@ pandas的数据处理功能非常丰富，更多使用方法请查阅pandas的us
 - Windows下使用tracecat运行，Linux下使用./tracecat运行
 
 - trace 功能做了防止意外覆盖的处理，如果runs下已经有对应文件夹，将提示出错，请手动删除文件夹或改名运行
+
+## Contact
+
+Author: Cyrus Huang
+
+Github: <https://github.com/kernel-cyrus/tracecat>
