@@ -2,13 +2,13 @@
 
 General kernel trace analysis framework
 
-## Setup Environment
-
-Tracecat running environment is based on python and venv.
-
 Author: Cyrus Huang
 
 Github: <https://github.com/kernel-cyrus/tracecat>
+
+## Setup Environment
+
+Tracecat running environment is based on python and venv.
 
 ### Setup on Linux or MacOS
 
