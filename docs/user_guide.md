@@ -10,11 +10,11 @@ Tracecat是一个模块化设计的通用Trace解析框架。
 
 tracecat由trace, parse, chart三个命令和各类数据module（模块）组成：
 
-- trace：命令从手机抓取原始数据
+- trace：从手机抓取原始数据
 
-- parse：命令解析出对应的数据
+- parse：解析出对应的数据
 
-- chart：命令生成图表
+- chart：生成图表
 
 每个module就是一种类型的数据。所有原始数据和生成的数据，都会保存在./runs/<xxx>文件夹下。
 
