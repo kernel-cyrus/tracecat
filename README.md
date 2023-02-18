@@ -2,11 +2,11 @@
 
 General kernel trace analysis framework
 
-## Setup
+## Setup Environment
 
 Tracecat running environment is based on python and venv.
 
-### For Linux & MacOS
+### Setup on Linux or MacOS
 
 Setup environment:
 
@@ -43,7 +43,7 @@ Then you can simply run by:
     ./venv/bin/deactivate
 ```
 
-### For Windows
+### Setup on Windows
 
 Setup environment:
 
@@ -80,37 +80,37 @@ Then you can simply run by:
     .\venv\Scripts\deactivate
 ```
 
-## Build binary distribution
+## Build Binary Distribution
 
 You can also build tracecat into executables, so that it can simply run without any installations.
 
 Build Windows release
 
 ```
-    .\build\build_win.bat           (run on Windows)
+.\build\build_win.bat           (run on Windows)
 ```
 
 Build Linux release
 
 ```
-    source ./build/build_linux.sh   (run on Linux)
+source ./build/build_linux.sh   (run on Linux)
 ```
 
 Build Mac release
 
 ```
-    source ./build/build_mac.sh     (run on MacOS)
+source ./build/build_mac.sh     (run on MacOS)
 ```
 
 Then you can get distribution package from:
 
 ```    
-    ./build/dist/tracecat.zip
+./build/dist/tracecat.zip
 ```
 
 ## User Guide
 
-See <docs/user_guide.txt>
+See [docs/user_guide.txt](docs/user_guide.txt)
 
 ## Contact
 
