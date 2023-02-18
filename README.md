@@ -1,6 +1,6 @@
 # Tracecat
 
-General kernel trace analysis framework
+A general kernel trace analysis framework
 
 ## Setup Environment
 
