@@ -109,7 +109,7 @@ tracecat "cpu_load" test -d 10s
 
 抓取结束后，可以直接将./runs/test/perfetto/perfetto.trace拖入<https://ui.perfetto.dev/#!/>打开
 
-为了抓去更多额外trace，可以手动配置perfetto tracing config：
+为了抓取更多额外trace，可以手动配置perfetto tracing config：
 
 ```
 vim ./configs/perfetto/perfetto.conf
