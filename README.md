@@ -4,7 +4,7 @@ A general kernel trace analysis framework
 
 ## Download
 
-`git clone https://github.com/kernel-cyrus/lightbox.git`
+`git clone https://github.com/kernel-cyrus/tracecat.git`
 
 ## Start to Run
 
@@ -112,7 +112,7 @@ Then you can get distribution package from:
 
 ## User Guide
 
-See <a href="https://github.com/kernel-cyrus/tracecat/blob/master/docs/user_guide.md" target="_blank">docs/user_guide</a>
+See <a href="docs/user_guide.md" target="_blank">docs/user_guide</a>
 
 ## Contact
 
