@@ -296,7 +296,7 @@ tracecat "parse:ddr_freq"                  # 解析
 tracecat "chart:ddr_freq"                  # 显示GPU频率曲线
 ```
 
-ddr_freq_stat:
+**ddr_freq_stat**
 
 统计ddr各频点运行时间占比（基于ddr_freq）
 
