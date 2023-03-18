@@ -112,7 +112,7 @@ Then you can get distribution package from:
 
 ## User Guide
 
-See <a href="docs/user_guide" target="_blank">docs/user_guide</a>
+See <a href="https://tracecat.kernel-tour.org/docs/user_guide" target="_blank">docs/user_guide</a>
 
 ## Contact
 
